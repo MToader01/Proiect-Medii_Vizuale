@@ -1,2 +1,2 @@
-# Proiect-Medii_Vizuale
-Proiect pentru medii vizuale
+# Proiect3
+ Proiectul3
