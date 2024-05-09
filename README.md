@@ -1,2 +1,2 @@
 # Proiect-Medii_Vizuale
-Proiectul pentru grafica pe calculator
+Proiect pentru medii vizuale
